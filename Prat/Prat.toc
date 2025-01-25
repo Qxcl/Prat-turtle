@@ -36,7 +36,6 @@ modules\Buttons.lua
 modules\ChannelNames.lua
 modules\ChannelSeparator.lua
 modules\ChannelColorMemory.lua
-modules\ChatLink.lua
 modules\ChatTabs.lua
 modules\Fading.lua
 modules\FontSize.lua

@@ -1,6 +1,6 @@
-# **Prat** for Vanilla
+# **Prat** for Turtle WoW
 
-Chat customization addon for World of Warcraft 1.12.1 (Vanilla/Classic WoW).
+Chat customization addon for World of Warcraft 1.12.1 (Vanilla), modified for Turtle WoW.
 
 ## Modules
 
@@ -8,7 +8,6 @@ Chat customization addon for World of Warcraft 1.12.1 (Vanilla/Classic WoW).
 * **ChannelColorMemory** - channel coloring by channel name instead of number (default=on).
 * **ChannelNames** - shorten channel names in the chatframe.
 * **ChannelSeparator** - separate various channel options in the Blizzard UI (default=on).
-* **ChatLink** - enable item linking in all channels (default=CHATLINKmode).
 * **ChatTabs** - additional chat window tab options.
 * **Editbox** - change editbox position, width, and backdrop alpha (default=attachedTop,widthChatFrame1,visibleBackdrop).
 * **Fading** - toggle the fading in chat windows on and off (default=off).
@@ -34,6 +33,10 @@ Chat customization addon for World of Warcraft 1.12.1 (Vanilla/Classic WoW).
 
 
 ## Changes
+v1.0.8
+- Removed the Chat Link feature. This feature is not necessary on Turtle WoW, so
+  it did nothing but break item links for people who do not have Prat.
+
 v1.0.7
 - Added UNICODE font support (chinese font) - Need reload UI after change font
 ![image](https://user-images.githubusercontent.com/20452393/226829333-c587deef-fabe-4778-b844-248768c6cf3e.png)
