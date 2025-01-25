@@ -5,11 +5,11 @@
 ## Notes-ruRU: Фреймворк для чата.
 ## Notes: A framework for chat frame modules.
 ## Notes-frFR: Framework pour des modules concernant les fentres de discussion
-## Version: v1.0.7
-## Author: Prat Development Team, laytya
+## Version: v1.0.8
+## Author: Prat Development Team, laytya, Qxcl
 
 ## X-Category: Chat/Communication
-## X-Website: https://github.com/laytya/Prat
+## X-Website: https://github.com/Qxcl/Prat-turtle
 ## X-Credits: Industrial, Ammo, Cirk, Yris, Leuchtturm, AnduinLothar, Satrina, <CWDG>昏睡墨鱼&月色狼影, Prat Development Team, RuWOW team
 
 ## OptionalDeps: Ace2
